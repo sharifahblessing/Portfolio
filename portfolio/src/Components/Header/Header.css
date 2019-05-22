@@ -1,0 +1,26 @@
+.header {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  padding: 15px;
+  background-color: rgb(38, 77, 38);
+  color: whitesmoke;
+  opacity: 1;
+  height: 50px;
+  align-items: center;
+  font-size: 25px;
+}
+.headerIcon {
+  font-size: 35px !important;
+}
+.leftArea {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  width: 500px;
+}
+.rightArea {
+  font-style: italic;
+  font-family: "Courier New", Courier, monospace;
+  font-weight: bold;
+}
